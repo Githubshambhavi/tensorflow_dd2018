@@ -1,0 +1,1 @@
+These files were changed by me to be adapted for the class. To use in your work, it is probably best to go out and get the most recent versions from Github.
